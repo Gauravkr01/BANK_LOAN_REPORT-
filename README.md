@@ -56,7 +56,7 @@ Built dynamic measures including:
 - **Average DTI**
 - **Good Loan %**
 - **Bad Loan %**
-
+![Image](https://github.com/user-attachments/assets/6c6eb0e3-14df-4fdc-9586-0d4270a6ae5c)
 Example:
 ```DAX
 Total Loan Applications = COUNT(Loans[ID])
