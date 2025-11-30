@@ -56,7 +56,63 @@ Built dynamic measures including:
 - **Average DTI**
 - **Good Loan %**
 - **Bad Loan %**
-![Image](https://github.com/user-attachments/assets/6c6eb0e3-14df-4fdc-9586-0d4270a6ae5c)
+
 Example:
 ```DAX
 Total Loan Applications = COUNT(Loans[ID])
+
+## 📊 Visuals & Insights
+
+### 🔹 Summary Page
+- **Good Loan Issued:** 86.2%  
+- **Bad Loan Issued:** 13.8%  
+- **Total Loan Applications:** 38.6K  
+- **Total Funded Amount:** $436M  
+- **Total Amount Received:** $473M  
+- **Average Interest Rate:** 12%  
+- **Average DTI:** 13.3%  
+
+---
+
+### 🔹 Overview Page
+- Total loan applications by month (Jan–Dec)
+- Loan applications by state (US map)
+- Loan applications by term (36 vs 60 months)
+- Loan applications by purpose  
+  (credit card, debt consolidation, home improvement, etc.)
+- Loan applications by employment length  
+  (1 year, 2 years… 10+ years)
+- Home ownership loan comparison  
+  (Rent vs Mortgage vs Own)
+
+---
+
+### 🔹 Details Page
+A complete loan-level table containing:
+- Loan ID  
+- Purpose  
+- Home Ownership  
+- Grade/Sub-grade  
+- Issue Date  
+- Funded Amount  
+- Interest Rate  
+- Installment  
+- Total Amount Received  
+
+---
+
+## 🎨 Dashboard Design
+- Clean, modern layout with a **green financial theme**  
+- Easy navigation buttons (Summary, Overview, Details)  
+- Slicers for:  
+  - State  
+  - Grade  
+  - Purpose  
+  - Good/Bad Loan  
+  - Employment Length  
+- Consistent typography and high-contrast visuals for
+
+![Summary](add-image-link)
+![Overview](add-image-link)
+![Details](add-image-link)
+
