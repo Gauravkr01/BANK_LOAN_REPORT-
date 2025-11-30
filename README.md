@@ -59,8 +59,8 @@ Built dynamic measures including:
 
 Example:
 ```DAX
-Total Loan Applications = COUNT(Loans[ID])
-
+Total Loan Applications = COUNT(Loans[ID]) 
+```
 ## 📊 Visuals & Insights
 
 ### 🔹 Summary Page
@@ -112,7 +112,8 @@ A complete loan-level table containing:
   - Employment Length  
 - Consistent typography and high-contrast visuals for
 
-![Summary](add-image-link)
-![Overview](add-image-link)
-![Details](add-image-link)
+![Summary] ![Image](https://github.com/user-attachments/assets/d37cbcc0-aea8-4097-ac81-12e2d2c03cb7)
+![Overview] ![Image](https://github.com/user-attachments/assets/7908244a-3019-424f-8fa3-37d23ef6122e)
+![Details] ![Image](https://github.com/user-attachments/assets/62e905db-9cf5-480c-b7be-4814e896927d)
+
 
